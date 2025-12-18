@@ -1,0 +1,6 @@
+{
+  "/absensi-digital/page": "app/absensi-digital/page.js",
+  "/page": "app/page.js",
+  "/video-sosialisasi/[id]/page": "app/video-sosialisasi/[id]/page.js",
+  "/video-sosialisasi/page": "app/video-sosialisasi/page.js"
+}
